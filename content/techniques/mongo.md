@@ -672,7 +672,7 @@ class Person {
 
 > info **Hint** The `@Virtual()` decorator is imported from the `@nestjs/mongoose` package.
 
-In this example, the `fullName` virtual is derived from `firstName` and `lastName`. Even though it behaves like a normal property when accessed, it’s never saved to the MongoDB document.:
+In this example, the `fullName` virtual is derived from `firstName` and `lastName`. Even though it behaves like a normal property when accessed, it’s never saved to the MongoDB document.
 
 #### Example
 
